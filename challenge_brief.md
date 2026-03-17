@@ -25,7 +25,7 @@ A 22 second clip is spreading. Reporter, sponsor, and management messages arrive
 **Scenario time:** 6:15 PM  
 No new facts appear about the clip. The sponsor escalates internally and may pause all brand activity unless a credible plan arrives by 6:35 PM.
 
-Packet B is included from the start for fairness. In scenario time, it happens later. Complete Phase 1 before you handle Packet B.
+Packet B is included from the start for fairness. In scenario time, it happens later. Complete Phase A before you handle Packet B.
 
 ## What the public packets are for
 
@@ -54,10 +54,10 @@ Build a workflow that can:
   Do not invent missing transcript context.
   Do not assume legal review, full interview access, or outside evidence.
   Respect every stated approval limit and deadline.
-  Complete Phase 1 before Packet B.
-  Phase 2 must update Phase 1. Do not restart from scratch.
-  Clearly label Phase 1 and Phase 2.
-  Include one sentence stating that Phase 2 was produced after Phase 1.
+  Complete Phase A before Packet B.
+  Phase B must update Phase A. Do not restart from scratch.
+  Clearly label Phase A and Phase B.
+  Include one sentence stating that Phase B was produced after Phase A.
   Build for the packet format, not only for the exact published facts.
 
 ## Valid builds
