@@ -1,0 +1,32 @@
+# Packet B — Sponsor escalation
+
+**Talent:** Timothée Chalamet  
+**Scenario time:** 6:15 PM
+
+Use this file with `challenge_brief.md`. This packet happens later in scenario time. Complete **Phase 1** before handling this update.
+
+## What changed
+
+- Maison Valeur has escalated the issue internally.
+- The sponsor now wants a concrete plan within **20 minutes**.
+- Same-night brand activity may be paused without a credible response plan.
+
+## What did not change
+
+- No new factual evidence about the original clip has emerged.
+- The underlying issue is still the same 22-second clip and the reaction around it.
+- This is a stakeholder-pressure update, not a fact update.
+
+## Sponsor escalation message
+
+### Maison Valeur partnership lead, 6:15 PM
+
+> We need a concrete plan from your team within the next 20 minutes. This issue has now been escalated internally, and we are considering pausing all brand activity involving Timothée tonight, including red-carpet visibility, social amplification, and any sponsor-tagged content, unless we receive a credible response plan.
+>
+> By **6:35 PM**, please send:
+> - whether Timothée plans to issue a public statement tonight
+> - whether he will still do press at the event
+> - the exact line our team can use internally and, if needed, externally
+> - confirmation of who is approving communications on your side
+>
+> If we do not have a plan by then, we will move forward with a precautionary hold on all brand activity involving talent tonight.
