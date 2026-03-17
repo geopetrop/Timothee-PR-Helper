@@ -73,8 +73,7 @@ A main submission file with your Phase A and Phase B outputs, workflow proof blo
 Any supporting files needed to understand how the build works (code, notebooks, workflow exports, configs, demo video — include what you need, skip what you don't)
 We allow a lot of flexibility and creativity here. There is no single right way to build this. **But remeber part of the grade is how easy handoff is for a PR team to start using immediately.**
 
-How we judge entries
-Entries are scored across five dimensions by human judges. The published packets help you understand the task and demonstrate your workflow. Final judging is based on how well the workflow holds up on unseen evaluation inputs of the same formats and overall scenario shape.
+The published packets help you understand the task and demonstrate your workflow. Final judging is based on how well the workflow holds up on unseen evaluation inputs of the same formats and overall scenario shape.
 
 Crisis judgment, triage, and sequencing — 35%
 Adaptation to new information — 20%
