@@ -33,16 +33,16 @@ Use this file with `challenge_brief.md`. This packet happens later in scenario t
 
 ## Additional inbound voicemails
 
-These voicemail summaries are verified inbound signals available to the team by 6:15 PM. They add pressure and prioritization context, but do not change the underlying facts of the original clip.
+These voicemail summaries are verified inbound signals available to the team by 6:15 PM. They add pressure and prioritization context, but do not change the underlying facts of the original clip. They contain stakeholder signals that may affect prioritization. Assess each based on content, sender context, and timing.
 
-### Laurent Duchamp, VP Partnerships — Maison Clarée
+### Laurent Duchamp — Maison Clarée
 **Received:** 18:03  
 **Duration:** 0:24  
 **MP3:** [Laurent Duchamp.mp3](https://github.com/user-attachments/files/26054236/Laurent.Duchamp.mp3)
 
-### Tom Ellery, Journalist — Arts & Culture Weekly
+### Tom Ellery — Arts & Culture Weekly
 **Received:** 17:52  
 **Duration:** 0:28  
 **MP3:** [Tom Ellery.mp3](https://github.com/user-attachments/files/26054251/Tom.Ellery.mp3)
 
-**Why it matters:** High-priority sponsor-side escalation signal. Treat this as time-sensitive stakeholder pressure. We leave prioritization up to you to intepret based on the available information.
+**Why it matters:** These voicemails may differ in urgency. Prioritization is up to your workflow.
